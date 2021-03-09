@@ -1,0 +1,57 @@
+<yml_catalog date="2021-03-09 11:47">
+    <shop>
+        <name>KIO</name>
+        <company>KIO</company>
+        <currencies>
+            <currency id="UAH" rate="1.00"/>
+            <currency id="USD" rate="28.50"/>
+            <currency id="EUR" rate="33.50"/>
+        </currencies>
+        <categories>
+            <category id="4658869">Барні стільці</category>
+            <category id="4627575">Дивани</category>
+            <category id="2798167">Журнальні столи</category>
+            <category id="4629249">Картини</category>
+            <category id="4627792">М'які крісла</category>
+            <category id="105280">Настільні лампи</category>
+            <category id="2796732">Обідні столи</category>
+            <category id="4657833">Пуфи</category>
+            <category id="4647606">Свічники</category>
+            <category id="154084">Стільці для кухні</category>
+            <category id="4629178">Стелажі та консолі</category>
+            <category id="4629185">Тумби</category>
+        </categories>
+        <offers>
+            <offer id="27819449" available="true">
+                <price>3200.00</price>
+                <price_promo>2880.00</price_promo>
+                <stock_quantity>0</stock_quantity>
+                <currencyId>UAH</currencyId>
+                <categoryId>4657833</categoryId>
+                <picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27819449-103a148fd3615b69fe0a21a4c3df3cf6.jpg</picture>
+                <picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27819449-50a4fd82980fd5565be8d419e4b03e1f.jpg</picture>
+                <picture>http://pricecreator.rozetka.com.ua/uploads/11921/item/original/i27819449-d42e918764b1a1686679494fa4a4605a.jpg</picture>
+                <name>Пуф квадратный PidVushko Pouf2 42х42 см серый</name>
+                <vendor>PidVushko</vendor>
+                <description>
+                    <![CDATA[ <p>Колір: Чорний</p><p>Матеріал: Метал, текстиль</p><p>Посадкова висота: 45 см</p><p>Довжина: 42 см</p><p>Ширина: 42 см</p><p>Висота: 45 см</p><p>Тип товару: Пуф</p><p>ДxШxВ: 420x420x450 мм</p> ]]>
+                </description>
+                <param name="Материал корпуса" paramid="203982" valueid="2869441,2462802,2462790,2462784">Поролон,Фанера,Дерево,Металл</param>
+                <param name="Ширина" paramid="203706" valueid="2538721">42 см</param>
+                <param name="Глубина" paramid="203712" valueid="2538529">42 см</param>
+                <param name="Высота" paramid="203718" valueid="2538193">45 см</param>
+                <param name="Назначение" paramid="203700" valueid="2456046,2456040,2456034">Для прихожей,Для спальни,Для гостинной</param>
+                <param name="Вид" paramid="203688" valueid="2455980">Нераскладные</param>
+                <param name="Форма" paramid="203682" valueid="2455950">Квадратная</param>
+                <param name="Стиль" paramid="203343" valueid="2438001">Лофт</param>
+                <param name="Материал обивки" paramid="203337" valueid="2437839">Ткань</param>
+                <param name="Цвет" paramid="97094" valueid="673177">Серый + Черный</param>
+                <param name="Страна-производитель товара" paramid="98900" valueid="544338">Украина</param>
+                <param name="Гарантия" paramid="20769" valueid="6175">6 месяцев</param>
+                <param name="Доставка/Оплата" paramid="2019">
+                    <![CDATA[ Товар на заказ. Срок изготовления и доставки от 5 дней. ]]>
+                </param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
